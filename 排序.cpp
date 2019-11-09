@@ -29,6 +29,6 @@
 		if(j<n-1)printf(",");
 	}
 	if(b)free(b);
-	if(c)free(c); 
+	if(c)free(c);
 	 return 0;
  }
